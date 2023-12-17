@@ -1,0 +1,1 @@
+﻿Set-ReceiveConnector -Dentity "nomedolocal\local" -RemoteIPRanges 0.0.0.0,0.0.0.1,0.0.0.2
